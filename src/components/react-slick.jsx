@@ -33,7 +33,7 @@ export default class CenterMode extends Component {
             infinite: true,
 			centerPadding: "30px",
             speed: 500,
-            // autoplay: true,
+            autoplay: true,
             autoplaySpeed : 3000,
             slidesToShow: 3, // 한 번에 보여줄 수
             // slidesToScroll: 1, // next 누르면 넘겨질 수
